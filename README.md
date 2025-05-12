@@ -9,7 +9,8 @@ I love working with Unity, and I'm currently developing a game inspired by *Noit
 - Game development in Unity (C#)
 - Programming in Python and C#
 - Learning full-stack skills to become a project manager in the future
-- Studying for Japan’s Applied Information Technology Engineer Examination (AP)
+- Recently studying software design patterns to improve code architecture
+- Took Japan’s Applied Information Technology Engineer Examination (AP) — likely passed!
 
 ### What I value:
 - Creating games that bring joy and wonder
